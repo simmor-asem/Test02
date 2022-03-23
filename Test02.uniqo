@@ -1,0 +1,27 @@
+Project:
+ Name: Test02
+ ProjectNamespaceIndex: 6
+ Description: ''
+ Company: ''
+ Copyright: ''
+ FormatVersion: 1
+ CoreVersion: 8.0.0.55
+ Dependencies:
+  2:
+   Uri: 'urn:QPlatform:CoreBase'
+   Module: QPlatform.CoreBase
+   Version: 8.0.5.95
+  3:
+   Uri: 'urn:QPlatform:UI'
+   Module: QPlatform.UI
+   Version: 43.3.0.32
+  4:
+   Uri: 'urn:QPlatform:HMIProject'
+   Module: QPlatform.HMIProject
+   Version: 10.1.4.95
+  5:
+   Uri: 'urn:QPlatform:NativeUI'
+   Module: QPlatform.NativeUI
+   Version: 26.3.0.32
+ Nodes:
+ - File: Nodes/Test02.yaml
