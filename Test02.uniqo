@@ -15,13 +15,7 @@ Project:
    Uri: 'urn:QPlatform:UI'
    Module: QPlatform.UI
    Version: 43.3.0.44
-  4:
-   Uri: 'urn:QPlatform:HMIProject'
-   Module: QPlatform.HMIProject
-   Version: 10.1.4.107
-  5:
-   Uri: 'urn:QPlatform:NativeUI'
-   Module: QPlatform.NativeUI
-   Version: 26.3.0.44
  Nodes:
- - File: Nodes/Test02.yaml
+ - File: Nodes/Security/Users.yaml
+ - File: Nodes/UI/DefaultStyleSheet.yaml
+ - File: Nodes/UI/MainWindow.yaml

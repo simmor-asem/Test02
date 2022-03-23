@@ -1,0 +1,7 @@
+Name: ns=82;Users
+Type: FolderType
+OwnerId: ns=82;g=f5afb522f407f7a48d70bd6043768f21
+Children:
+- Name: ns=82;Guest
+  Id: g=b950b855f578c592a2fe1cad8f660edb
+  Type: UserType
