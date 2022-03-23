@@ -5,7 +5,7 @@ Project:
  Company: ''
  Copyright: ''
  FormatVersion: 1
- CoreVersion: 8.0.0.55
+ CoreVersion: 8.0.0.67
  Dependencies:
   2:
    Uri: Test02
@@ -13,5 +13,5 @@ Project:
   3:
    Uri: 'urn:QPlatform:CoreBase'
    Module: QPlatform.CoreBase
-   Version: 8.0.5.95
+   Version: 8.0.5.107
  Nodes: []
